@@ -1,0 +1,32 @@
+/* Basic styling for body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Styling for header */
+header {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+/* Basic styles for h1 and h2 */
+h1 {
+    font-size: 2.5em;
+    color: #333;
+}
+
+h2 {
+    font-size: 1.8em;
+    color: #555;
+}
+
+/* Style for images */
+img {
+    width: 80%;
+    max-width: 600px;
+    height: auto;
+    margin: 20px 0;
+}
